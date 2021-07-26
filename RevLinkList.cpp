@@ -156,7 +156,7 @@ int main()
     insert(head, 6);
     //display(head);
     makecycle(head, 3);
-    cout << detectioncycle(head)<<endl;
+    //cout << detectioncycle(head)<<endl;
     removenode(head);
     cout << detectioncycle(head)<<endl;
     display(head);
